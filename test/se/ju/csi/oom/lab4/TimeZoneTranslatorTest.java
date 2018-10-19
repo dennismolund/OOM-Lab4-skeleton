@@ -30,6 +30,7 @@ public class TimeZoneTranslatorTest {
 			Person ragnar = new Person("Ragnar Nohre");
 			Place HC218 = new Place("Hc218",57.7785672,14.1614833,20.0);
 			
+			
 			Event firstOomLecture = new Event("OOM 2018 Lecture 1",
 					LectureStart,
 					LectureEnd,
